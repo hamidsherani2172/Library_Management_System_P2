@@ -2,9 +2,9 @@
 
 ## Project Overview
 
-**Project Title**: Library Management System
+**Project Title**: Library Management System 
 **Level**: Intermediate  
-**Database**: `library_project_2_zero_analyst`
+**Database**: library_project_2_zero_analyst
 
 This project demonstrates the implementation of a Library Management System using SQL. It includes creating and managing tables, performing CRUD operations, and executing advanced SQL queries. The goal is to showcase skills in database design, manipulation, and querying.
 
@@ -463,5 +463,6 @@ call issue_book('IS155', 'C108', '978-0-553-29698-2', 'E102');
 ```
 
 ## END OF PROJECT
+
 
 
